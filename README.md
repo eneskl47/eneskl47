@@ -1,4 +1,5 @@
-# Hello, I'm Enes! 👋
+# Hi There 👋
+ I'm Enes! 
 
 I'm an **Electrical and Electronics Engineering student** and also working as an **Export Manager**. By day, I manage the international sales of voltage regulators, UPS devices, and solar energy systems. By night, I dive into code, analyze circuits, and build a strong foundation in engineering.
 
